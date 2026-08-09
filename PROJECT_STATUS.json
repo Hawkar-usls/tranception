@@ -1,0 +1,12 @@
+{
+  "schema_id": "hawkar.project-status.v1",
+  "project": "Tranception working copy",
+  "repository": "https://github.com/Hawkar-usls/tranception",
+  "portfolio_class": "upstream_derived_working_copy",
+  "upstream": "https://github.com/OATML-Markslab/Tranception",
+  "last_reviewed": "2026-08-09",
+  "base_research_authorship_claimed_by_hawkar": false,
+  "base_code_authorship_claimed_by_hawkar": false,
+  "flagship_hawkar_research": false,
+  "evaluation_rule": "Evaluate Hawkar-specific work only from an explicit diff against the corresponding upstream revision."
+}
