@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Upstream-derived working copy.** Tranception and its paper/codebase are the work of the [Marks Lab / OATML authors and contributors](https://github.com/OATML-Markslab/Tranception). Hawkar does not claim authorship of the base research or code. See [`UPSTREAM_MIRROR_NOTICE.md`](UPSTREAM_MIRROR_NOTICE.md).
+
 # Tranception
 
 This is the official code repository for the paper "Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval". This project is a joint collaboration between the [Marks lab](https://www.deboramarkslab.com/) and the [OATML group](https://oatml.cs.ox.ac.uk/).
